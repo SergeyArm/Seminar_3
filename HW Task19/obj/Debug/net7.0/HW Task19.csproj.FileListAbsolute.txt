@@ -1,0 +1,15 @@
+C:\Сергей\GIK\C#\Семинары\C# Seminar 3\HW Task19\bin\Debug\net7.0\HW Task19.exe
+C:\Сергей\GIK\C#\Семинары\C# Seminar 3\HW Task19\bin\Debug\net7.0\HW Task19.deps.json
+C:\Сергей\GIK\C#\Семинары\C# Seminar 3\HW Task19\bin\Debug\net7.0\HW Task19.runtimeconfig.json
+C:\Сергей\GIK\C#\Семинары\C# Seminar 3\HW Task19\bin\Debug\net7.0\HW Task19.dll
+C:\Сергей\GIK\C#\Семинары\C# Seminar 3\HW Task19\bin\Debug\net7.0\HW Task19.pdb
+C:\Сергей\GIK\C#\Семинары\C# Seminar 3\HW Task19\obj\Debug\net7.0\HW Task19.csproj.AssemblyReference.cache
+C:\Сергей\GIK\C#\Семинары\C# Seminar 3\HW Task19\obj\Debug\net7.0\HW Task19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Сергей\GIK\C#\Семинары\C# Seminar 3\HW Task19\obj\Debug\net7.0\HW Task19.AssemblyInfoInputs.cache
+C:\Сергей\GIK\C#\Семинары\C# Seminar 3\HW Task19\obj\Debug\net7.0\HW Task19.AssemblyInfo.cs
+C:\Сергей\GIK\C#\Семинары\C# Seminar 3\HW Task19\obj\Debug\net7.0\HW Task19.csproj.CoreCompileInputs.cache
+C:\Сергей\GIK\C#\Семинары\C# Seminar 3\HW Task19\obj\Debug\net7.0\HW Task19.dll
+C:\Сергей\GIK\C#\Семинары\C# Seminar 3\HW Task19\obj\Debug\net7.0\refint\HW Task19.dll
+C:\Сергей\GIK\C#\Семинары\C# Seminar 3\HW Task19\obj\Debug\net7.0\HW Task19.pdb
+C:\Сергей\GIK\C#\Семинары\C# Seminar 3\HW Task19\obj\Debug\net7.0\HW Task19.genruntimeconfig.cache
+C:\Сергей\GIK\C#\Семинары\C# Seminar 3\HW Task19\obj\Debug\net7.0\ref\HW Task19.dll

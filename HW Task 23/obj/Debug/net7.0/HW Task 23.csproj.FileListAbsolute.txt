@@ -1,0 +1,15 @@
+C:\Сергей\GIK\C#\Семинары\C# Seminar 3\HW Task 23\bin\Debug\net7.0\HW Task 23.exe
+C:\Сергей\GIK\C#\Семинары\C# Seminar 3\HW Task 23\bin\Debug\net7.0\HW Task 23.deps.json
+C:\Сергей\GIK\C#\Семинары\C# Seminar 3\HW Task 23\bin\Debug\net7.0\HW Task 23.runtimeconfig.json
+C:\Сергей\GIK\C#\Семинары\C# Seminar 3\HW Task 23\bin\Debug\net7.0\HW Task 23.dll
+C:\Сергей\GIK\C#\Семинары\C# Seminar 3\HW Task 23\bin\Debug\net7.0\HW Task 23.pdb
+C:\Сергей\GIK\C#\Семинары\C# Seminar 3\HW Task 23\obj\Debug\net7.0\HW Task 23.csproj.AssemblyReference.cache
+C:\Сергей\GIK\C#\Семинары\C# Seminar 3\HW Task 23\obj\Debug\net7.0\HW Task 23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Сергей\GIK\C#\Семинары\C# Seminar 3\HW Task 23\obj\Debug\net7.0\HW Task 23.AssemblyInfoInputs.cache
+C:\Сергей\GIK\C#\Семинары\C# Seminar 3\HW Task 23\obj\Debug\net7.0\HW Task 23.AssemblyInfo.cs
+C:\Сергей\GIK\C#\Семинары\C# Seminar 3\HW Task 23\obj\Debug\net7.0\HW Task 23.csproj.CoreCompileInputs.cache
+C:\Сергей\GIK\C#\Семинары\C# Seminar 3\HW Task 23\obj\Debug\net7.0\HW Task 23.dll
+C:\Сергей\GIK\C#\Семинары\C# Seminar 3\HW Task 23\obj\Debug\net7.0\refint\HW Task 23.dll
+C:\Сергей\GIK\C#\Семинары\C# Seminar 3\HW Task 23\obj\Debug\net7.0\HW Task 23.pdb
+C:\Сергей\GIK\C#\Семинары\C# Seminar 3\HW Task 23\obj\Debug\net7.0\HW Task 23.genruntimeconfig.cache
+C:\Сергей\GIK\C#\Семинары\C# Seminar 3\HW Task 23\obj\Debug\net7.0\ref\HW Task 23.dll

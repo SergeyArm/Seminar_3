@@ -1,0 +1,15 @@
+C:\Сергей\GIK\C#\Семинары\C# Seminar 3\task 22\obj\Debug\net7.0\task 22.csproj.AssemblyReference.cache
+C:\Сергей\GIK\C#\Семинары\C# Seminar 3\task 22\obj\Debug\net7.0\task 22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Сергей\GIK\C#\Семинары\C# Seminar 3\task 22\obj\Debug\net7.0\task 22.AssemblyInfoInputs.cache
+C:\Сергей\GIK\C#\Семинары\C# Seminar 3\task 22\obj\Debug\net7.0\task 22.AssemblyInfo.cs
+C:\Сергей\GIK\C#\Семинары\C# Seminar 3\task 22\obj\Debug\net7.0\task 22.csproj.CoreCompileInputs.cache
+C:\Сергей\GIK\C#\Семинары\C# Seminar 3\task 22\bin\Debug\net7.0\task 22.exe
+C:\Сергей\GIK\C#\Семинары\C# Seminar 3\task 22\bin\Debug\net7.0\task 22.deps.json
+C:\Сергей\GIK\C#\Семинары\C# Seminar 3\task 22\bin\Debug\net7.0\task 22.runtimeconfig.json
+C:\Сергей\GIK\C#\Семинары\C# Seminar 3\task 22\bin\Debug\net7.0\task 22.dll
+C:\Сергей\GIK\C#\Семинары\C# Seminar 3\task 22\bin\Debug\net7.0\task 22.pdb
+C:\Сергей\GIK\C#\Семинары\C# Seminar 3\task 22\obj\Debug\net7.0\task 22.dll
+C:\Сергей\GIK\C#\Семинары\C# Seminar 3\task 22\obj\Debug\net7.0\refint\task 22.dll
+C:\Сергей\GIK\C#\Семинары\C# Seminar 3\task 22\obj\Debug\net7.0\task 22.pdb
+C:\Сергей\GIK\C#\Семинары\C# Seminar 3\task 22\obj\Debug\net7.0\task 22.genruntimeconfig.cache
+C:\Сергей\GIK\C#\Семинары\C# Seminar 3\task 22\obj\Debug\net7.0\ref\task 22.dll

@@ -1,0 +1,15 @@
+C:\Сергей\GIK\C#\Семинары\C# Seminar 3\Task 18\bin\Debug\net7.0\Task 18.exe
+C:\Сергей\GIK\C#\Семинары\C# Seminar 3\Task 18\bin\Debug\net7.0\Task 18.deps.json
+C:\Сергей\GIK\C#\Семинары\C# Seminar 3\Task 18\bin\Debug\net7.0\Task 18.runtimeconfig.json
+C:\Сергей\GIK\C#\Семинары\C# Seminar 3\Task 18\bin\Debug\net7.0\Task 18.dll
+C:\Сергей\GIK\C#\Семинары\C# Seminar 3\Task 18\bin\Debug\net7.0\Task 18.pdb
+C:\Сергей\GIK\C#\Семинары\C# Seminar 3\Task 18\obj\Debug\net7.0\Task 18.csproj.AssemblyReference.cache
+C:\Сергей\GIK\C#\Семинары\C# Seminar 3\Task 18\obj\Debug\net7.0\Task 18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Сергей\GIK\C#\Семинары\C# Seminar 3\Task 18\obj\Debug\net7.0\Task 18.AssemblyInfoInputs.cache
+C:\Сергей\GIK\C#\Семинары\C# Seminar 3\Task 18\obj\Debug\net7.0\Task 18.AssemblyInfo.cs
+C:\Сергей\GIK\C#\Семинары\C# Seminar 3\Task 18\obj\Debug\net7.0\Task 18.csproj.CoreCompileInputs.cache
+C:\Сергей\GIK\C#\Семинары\C# Seminar 3\Task 18\obj\Debug\net7.0\Task 18.dll
+C:\Сергей\GIK\C#\Семинары\C# Seminar 3\Task 18\obj\Debug\net7.0\refint\Task 18.dll
+C:\Сергей\GIK\C#\Семинары\C# Seminar 3\Task 18\obj\Debug\net7.0\Task 18.pdb
+C:\Сергей\GIK\C#\Семинары\C# Seminar 3\Task 18\obj\Debug\net7.0\Task 18.genruntimeconfig.cache
+C:\Сергей\GIK\C#\Семинары\C# Seminar 3\Task 18\obj\Debug\net7.0\ref\Task 18.dll
